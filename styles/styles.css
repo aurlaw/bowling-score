@@ -1,0 +1,7 @@
+body {font: 100% Arial; margin: auto 10%; padding: 2em;}
+#container {width: 100%;}
+#entryPanel, #resultsPanel {float: left; width: 45%; }
+.note {background: #ccc; padding: 0.2em; width: 50%; font-size: 80%; margin: 10px}
+.frame {padding: 1em; border: 1px solid #ddd;} 
+.header, .total {font-weight: bold; background: #090; color: #fff; padding: 0.5em;}
+.clear {clear: both;}
